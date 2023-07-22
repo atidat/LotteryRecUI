@@ -1,0 +1,16 @@
+import { createApp } from 'vue'
+
+
+import App from './App.vue'
+// import router from '@/router/index'
+
+
+console.log("welcome Lottery Recommdation Page")
+
+const app = createApp(App)
+
+app
+    // .use(router)
+    .mount('#app')
+
+export default app
