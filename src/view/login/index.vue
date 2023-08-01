@@ -69,7 +69,7 @@
         </el-form>
       </div>
       <div class="login_panel_right" />
-      <div class="login_panel_foot">
+      <!-- <div class="login_panel_foot">
         <div class="links">
           <a href="http://doc.henrongyi.top/" target="_blank">
             <img src="@/assets/docs.png" class="link-icon" alt="文档">
@@ -90,7 +90,7 @@
         <div class="copyright">
           <BottomInfo />
         </div>
-      </div>
+      </div> -->
     </div>
   </div>
 </template>
